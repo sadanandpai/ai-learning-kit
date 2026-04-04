@@ -1,6 +1,3 @@
-# ai-learning-kit
-AI tech guide and curated collection of AI materials
-
 <h1 align="center">AI Learning Kit</h1>
 <h4 align="center">AI tech guide and curated collection of AI materials</h3>
 <div align="center">
