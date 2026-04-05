@@ -21,6 +21,7 @@ Maintain the existing aesthetic of the `README.md`. Please use consistent icons 
 - 📘 for paid books or comprehensive guides.
 - 📗 for free books or comprehensive guides.
 - 📁 for code repositories.
+- 🚉 for interactive challenges and practice platforms.
 
 ### 3. Placement of New Resources
 
@@ -35,7 +36,7 @@ Maintain the existing aesthetic of the `README.md`. Please use consistent icons 
 ## How to Contribute?
 
 1. Fork the repository.
-2. Create your feature branch (`git checkout -b contribution/AmazingResource`).
+2. Create your feature branch (`git switch -c contribution/AmazingResource`).
 3. Commit your changes (`git commit -m 'Add AmazingResource'`).
 4. Push to the branch (`git push origin contribution/AmazingResource`).
 5. Open a Pull Request.
