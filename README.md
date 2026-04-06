@@ -32,7 +32,6 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 - 🎥&nbsp;&nbsp;[AI For Everyone](https://learn.deeplearning.ai/courses/ai-for-everyone/information) — Andrew Ng's non-technical intro to AI concepts and strategy
 - 📗&nbsp;&nbsp;[Elements of AI](https://www.elementsofai.com/) — Introduction to AI basics by the University of Helsinki
-- 🎥&nbsp;&nbsp;[Understanding Artificial Intelligence](https://app.datacamp.com/learn/courses/understanding-artificial-intelligence) — DataCamp course covering AI fundamentals
 
 <br>
 
@@ -49,8 +48,8 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 ## 🐍 Python for AI
 
-- 🎥&nbsp;&nbsp;[Python for Everybody](https://www.coursera.org/specializations/python) — Dr. Chuck's beginner Python specialization on Coursera
-- 🎥&nbsp;&nbsp;[AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) — DeepLearning.AI short course on Python for AI workflows
+- 🎥&nbsp;&nbsp;[Python for Everybody](https://www.coursera.org/specializations/python) — Dr. Chuck's Python specialization for absolute beginners
+- 🎥&nbsp;&nbsp;[AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) — DeepLearning.AI course for those with programming knowledge, focused on AI
 
 <br>
 
@@ -96,15 +95,14 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 - 🎥&nbsp;&nbsp;[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) — Andrej Karpathy's 1-hour LLM overview
 - 📗&nbsp;&nbsp;[Hugging Face LLM Course](https://huggingface.co/learn/llm-course) — End-to-end course on building with LLMs
+- 📘&nbsp;&nbsp;[Hands-On Large Language Models](https://www.llm-book.com/) — Visual, practical guide to building with LLMs
 
 <br>
 
 ## ✨ Generative AI
 
 - 🎥&nbsp;&nbsp;[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — Andrew Ng's non-technical intro to generative AI
-- 🎥&nbsp;&nbsp;[Google AI Essentials](https://www.coursera.org/google-certificates/ai-essentials-google) — Beginner-friendly professional certificate on using gen AI tools
 - 🎥&nbsp;&nbsp;[Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/) — DeepLearning.AI + AWS course on training and deploying LLMs
-- 🎥&nbsp;&nbsp;[Google's Intro to Generative AI](https://www.cloudskillsboost.google/paths/118) — Google Cloud Skills Boost learning path
 
 <br>
 
