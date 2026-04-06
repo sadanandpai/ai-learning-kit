@@ -137,6 +137,7 @@ Follow the sections sequentially. Explore the resources in each section to find 
 - 🚉&nbsp;&nbsp;[LeetCode Pandas Challenges](https://leetcode.com/problemset/pandas/) — Practice data manipulation with Pandas problems
 - 🚉&nbsp;&nbsp;[StrataScratch](https://www.stratascratch.com/) — Data science interview questions from top companies
 - 🚉&nbsp;&nbsp;[Deep-ML](https://www.deep-ml.com/) — Hands-on ML coding challenges with real datasets
+- 🚉&nbsp;&nbsp;[NeetCode ML](https://neetcode.io/practice/machine-learning) — Implement core ML algorithms from scratch with video explanations
 - 🚉&nbsp;&nbsp;[TensorTonic](https://www.tensortonic.com/) — Implement 200+ ML papers and algorithms from scratch
 - 🚉&nbsp;&nbsp;[DataInterview](https://www.datainterview.com/) — Practice SQL and Python for data science interviews
 - 📁&nbsp;&nbsp;[100 NumPy Exercises](https://github.com/rougier/numpy-100) — Progressive NumPy challenges with solutions
