@@ -31,6 +31,7 @@ Follow the sections sequentially. Explore the resources in each section to find 
 ## 🚀 Introduction to AI
 
 - 🎥&nbsp;&nbsp;[AI For Everyone](https://learn.deeplearning.ai/courses/ai-for-everyone/information) — Andrew Ng's non-technical intro to AI concepts and strategy
+- 📗&nbsp;&nbsp;[Elements of AI](https://www.elementsofai.com/) — Introduction to AI basics by the University of Helsinki
 - 🎥&nbsp;&nbsp;[Understanding Artificial Intelligence](https://app.datacamp.com/learn/courses/understanding-artificial-intelligence) — DataCamp course covering AI fundamentals
 
 <br>
@@ -55,9 +56,8 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 ## 📚 Python Libraries for AI
 
-- 🎥&nbsp;&nbsp;[Intro to NumPy](https://www.datacamp.com/courses/introduction-to-numpy) — DataCamp course on NumPy fundamentals
+- 🎥&nbsp;&nbsp;[The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) — Lazy Programmer's course on numpy, pandas & matplotlib
 - 🎥&nbsp;&nbsp;[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) — University of Michigan course on Coursera
-- 🎥&nbsp;&nbsp;[Complete Pandas Tutorial](https://www.youtube.com/watch?v=2uvysYbKdjM) — Keith Galli's comprehensive Pandas walkthrough
 - 📗&nbsp;&nbsp;[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) — freeCodeCamp certification with projects
 
 <br>
@@ -86,8 +86,9 @@ Follow the sections sequentially. Explore the resources in each section to find 
 - 🎥&nbsp;&nbsp;[Deep Learning Specialization](https://www.deeplearning.ai/courses/deep-learning-specialization/) — Andrew Ng's 5-course deep learning series
 - 📗&nbsp;&nbsp;[Practical Deep Learning](https://course.fast.ai/) — fast.ai's top-down, code-first approach to deep learning
 - 🎥&nbsp;&nbsp;[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) — Andrej Karpathy's series explaining math & code behind neural networks
-- 📗&nbsp;&nbsp;[Dive into Deep Learning](https://d2l.ai/) — Interactive textbook with code in PyTorch, TensorFlow, and JAX
 - 🎥&nbsp;&nbsp;[MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/) — MIT's flagship intro to deep learning
+- 📗&nbsp;&nbsp;[Deep Learning Book](https://www.deeplearningbook.org/) — The "bible of deep learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- 📗&nbsp;&nbsp;[Dive into Deep Learning](https://d2l.ai/) — Interactive textbook with code in PyTorch, TensorFlow, and JAX
 
 <br>
 
@@ -101,6 +102,7 @@ Follow the sections sequentially. Explore the resources in each section to find 
 ## ✨ Generative AI
 
 - 🎥&nbsp;&nbsp;[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — Andrew Ng's non-technical intro to generative AI
+- 🎥&nbsp;&nbsp;[Google AI Essentials](https://www.coursera.org/google-certificates/ai-essentials-google) — Beginner-friendly professional certificate on using gen AI tools
 - 🎥&nbsp;&nbsp;[Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/) — DeepLearning.AI + AWS course on training and deploying LLMs
 - 🎥&nbsp;&nbsp;[Google's Intro to Generative AI](https://www.cloudskillsboost.google/paths/118) — Google Cloud Skills Boost learning path
 
