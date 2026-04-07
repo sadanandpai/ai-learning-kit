@@ -10,11 +10,11 @@
 <details>
 <summary><strong>💡 How to use this guide</strong></summary>
 <br>
-Follow the sections sequentially. Explore the resources in each section to find what fits you best. Depending on your background, a single resource may be enough, or you might need to combine a few depending on your goals.
+This is a curated toolkit, not a rigid curriculum. While structured in a logical sequence, feel free to jump to any topic that fits your goals. Explore resources that match your background and learning style—one may be enough, or you might need to combine several based on your objectives.
 
 **Resource Types:**
 
-> 📍 Roadmap &nbsp; 📗 Free &nbsp; 📘 Paid &nbsp; 🎥 Video Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
+> 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 🎬 Paid Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
 
 </details>
 
@@ -48,7 +48,7 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 ## 🐍 Python for AI
 
-- 🎥&nbsp;&nbsp;[Python for Everybody](https://www.coursera.org/specializations/python) — Dr. Chuck's Python specialization for absolute beginners
+- 🎬&nbsp;&nbsp;[Python for Everybody](https://www.coursera.org/specializations/python) — Dr. Chuck's Python specialization for absolute beginners
 - 🎥&nbsp;&nbsp;[AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) — DeepLearning.AI course for those with programming knowledge, focused on AI
 
 <br>
@@ -56,7 +56,7 @@ Follow the sections sequentially. Explore the resources in each section to find 
 ## 💻 AI Foundations
 
 - 🎥&nbsp;&nbsp;[CS50's Intro to AI with Python](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) — Harvard's AI course covering search, knowledge, and learning
-- 🎥&nbsp;&nbsp;[Udacity AI Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898) — Project-based AI program with mentorship
+- 🎬&nbsp;&nbsp;[Udacity AI Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898) — Project-based AI program with mentorship
 - 📘&nbsp;&nbsp;[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen's guide to building AI applications in production
 - 📁&nbsp;&nbsp;[AI For Beginners](https://github.com/microsoft/AI-For-Beginners) — Microsoft's 12-week, 24-lesson AI curriculum
 
@@ -72,8 +72,8 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 ## 📚 Python Libraries for AI
 
-- 🎥&nbsp;&nbsp;[The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) — Lazy Programmer's course on numpy, pandas & matplotlib
-- 🎥&nbsp;&nbsp;[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) — University of Michigan course on Coursera
+- 🎬&nbsp;&nbsp;[The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) — Lazy Programmer's course on numpy, pandas & matplotlib
+- 🎬&nbsp;&nbsp;[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) — University of Michigan course on Coursera
 - 📗&nbsp;&nbsp;[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) — freeCodeCamp certification with projects
 
 <br>
@@ -90,7 +90,7 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 ## 🛠️ Machine Learning Frameworks
 
-- 🎥&nbsp;&nbsp;[PyTorch for Deep Learning](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning) — Professional PyTorch Certificate by Coursera
+- 🎬&nbsp;&nbsp;[PyTorch for Deep Learning](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning) — Professional PyTorch Certificate by Coursera
 - 🎥&nbsp;&nbsp;[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) — Professional TensorFlow Certificate by Coursera
 - 📗&nbsp;&nbsp;[Hugging Face Transformers](https://huggingface.co/docs/transformers/) — Industry-standard library for state-of-the-art NLP models
 - 🎥&nbsp;&nbsp;[LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) — DeepLearning.AI short course on LangChain fundamentals
