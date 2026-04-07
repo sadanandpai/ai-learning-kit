@@ -53,20 +53,28 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 <br>
 
-## 📚 Python Libraries for AI
-
-- 🎥&nbsp;&nbsp;[The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) — Lazy Programmer's course on numpy, pandas & matplotlib
-- 🎥&nbsp;&nbsp;[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) — University of Michigan course on Coursera
-- 📗&nbsp;&nbsp;[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) — freeCodeCamp certification with projects
-
-<br>
-
 ## 💻 AI Foundations
 
 - 🎥&nbsp;&nbsp;[CS50's Intro to AI with Python](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) — Harvard's AI course covering search, knowledge, and learning
 - 🎥&nbsp;&nbsp;[Udacity AI Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898) — Project-based AI program with mentorship
 - 📘&nbsp;&nbsp;[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen's guide to building AI applications in production
 - 📁&nbsp;&nbsp;[AI For Beginners](https://github.com/microsoft/AI-For-Beginners) — Microsoft's 12-week, 24-lesson AI curriculum
+
+<br>
+
+## ✍️ Prompt Engineering
+
+- 🎥&nbsp;&nbsp;[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — DeepLearning.AI course with Isa Fulford and Andrew Ng
+- 📗&nbsp;&nbsp;[Prompt Engineering Guide](https://www.promptingguide.ai/) — DAIR.AI's comprehensive and community-driven guide
+- 📗&nbsp;&nbsp;[OpenAI Prompt Engineering Docs](https://platform.openai.com/docs/guides/prompt-engineering) — Official best practices from OpenAI
+
+<br>
+
+## 📚 Python Libraries for AI
+
+- 🎥&nbsp;&nbsp;[The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) — Lazy Programmer's course on numpy, pandas & matplotlib
+- 🎥&nbsp;&nbsp;[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) — University of Michigan course on Coursera
+- 📗&nbsp;&nbsp;[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) — freeCodeCamp certification with projects
 
 <br>
 
@@ -77,6 +85,15 @@ Follow the sections sequentially. Explore the resources in each section to find 
 - 📘&nbsp;&nbsp;[Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) — Aurélien Géron's practical ML guide
 - 📘&nbsp;&nbsp;[The 100-Page ML Book](https://themlbook.com/) — Andriy Burkov's concise ML reference
 - 📗&nbsp;&nbsp;[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) — Jake VanderPlas's free guide to the Python data science stack
+
+<br>
+
+## 🛠️ Machine Learning Frameworks
+
+- 🎥&nbsp;&nbsp;[PyTorch for Deep Learning](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning) — Professional PyTorch Certificate by Coursera
+- 🎥&nbsp;&nbsp;[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) — Professional TensorFlow Certificate by Coursera
+- 📗&nbsp;&nbsp;[Hugging Face Transformers](https://huggingface.co/docs/transformers/) — Industry-standard library for state-of-the-art NLP models
+- 🎥&nbsp;&nbsp;[LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) — DeepLearning.AI short course on LangChain fundamentals
 
 <br>
 
@@ -91,41 +108,25 @@ Follow the sections sequentially. Explore the resources in each section to find 
 
 <br>
 
-## 🔗 LLMs (Large Language Models)
-
-- 🎥&nbsp;&nbsp;[Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) — Andrej Karpathy's 1-hour LLM overview
-- 📗&nbsp;&nbsp;[Hugging Face LLM Course](https://huggingface.co/learn/llm-course) — End-to-end course on building with LLMs
-- 📘&nbsp;&nbsp;[Hands-On Large Language Models](https://www.llm-book.com/) — Visual, practical guide to building with LLMs
-
-<br>
-
-## ✨ Generative AI
+## ✨ Generative AI & Large Language Models (LLMs)
 
 - 🎥&nbsp;&nbsp;[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — Andrew Ng's non-technical intro to generative AI
 - 🎥&nbsp;&nbsp;[Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/) — DeepLearning.AI + AWS course on training and deploying LLMs
-
-<br>
-
-## ✍️ Prompt Engineering
-
-- 🎥&nbsp;&nbsp;[ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — DeepLearning.AI course with Isa Fulford and Andrew Ng
-- 📗&nbsp;&nbsp;[Prompt Engineering Guide](https://www.promptingguide.ai/) — DAIR.AI's comprehensive and community-driven guide
-- 📗&nbsp;&nbsp;[OpenAI Prompt Engineering Docs](https://platform.openai.com/docs/guides/prompt-engineering) — Official best practices from OpenAI
-
-<br>
-
-## 🛠️ Frameworks
-
-- 🎥&nbsp;&nbsp;[PyTorch for Deep Learning](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning) — Professional PyTorch Certificate by Coursera
-- 🎥&nbsp;&nbsp;[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) — Professional TensorFlow Certificate by Coursera
-- 📗&nbsp;&nbsp;[Hugging Face Transformers](https://huggingface.co/docs/transformers/) — Industry-standard library for state-of-the-art NLP models
-- 🎥&nbsp;&nbsp;[LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) — DeepLearning.AI short course on LangChain fundamentals
-
-<br>
-
-## 🗄️ RAG
-
+- 📗&nbsp;&nbsp;[Hugging Face LLM Course](https://huggingface.co/learn/llm-course) — End-to-end course on building with LLMs
+- 📘&nbsp;&nbsp;[Hands-On Large Language Models](https://www.llm-book.com/) — Visual, practical guide to building with LLMs
 - 🎥&nbsp;&nbsp;[Retrieval Augmented Generation](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/) — Build RAG systems with LLMs
+
+<br>
+
+## 📺 Essential YouTube Channels
+
+- 🎥&nbsp;&nbsp;[3Blue1Brown](https://www.youtube.com/@3blue1brown) — Visual explanations of math and neural networks
+- 🎥&nbsp;&nbsp;[Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy) — Deep technical dives into LLMs and Neural Networks
+- 🎥&nbsp;&nbsp;[Sentdex](https://www.youtube.com/@sentdex) — Practical Python AI projects and Neural Networks from scratch
+- 🎥&nbsp;&nbsp;[StatQuest with Josh Starmer](https://www.youtube.com/@statquest) — Breaking down complex Statistics and ML concepts
+- 🎥&nbsp;&nbsp;[Krish Naik](https://www.youtube.com/@krishnaik06) — Practical ML/DL and career guidance
+- 🎥&nbsp;&nbsp;[Codebasics](https://www.youtube.com/@codebasics) — Project-based learning and data science fundamentals
+- 🎥&nbsp;&nbsp;[CampusX](https://www.youtube.com/@campusx-official) — Comprehensive data science and machine learning tutorials
 
 <br>
 
