@@ -12,6 +12,8 @@
 <br>
 This is a curated toolkit, not a rigid curriculum. While structured in a logical sequence, feel free to jump to any topic that fits your goals. Explore resources that match your background and learning style—one may be enough, or you might need to combine several based on your objectives.
 
+<br>
+
 **Resource Types:**
 
 > 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 🎬 Paid Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
@@ -58,7 +60,6 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🎥&nbsp;&nbsp;[CS50's Intro to AI with Python](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) — Harvard's AI course covering search, knowledge, and learning
 - 🎬&nbsp;&nbsp;[Udacity AI Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898) — Project-based AI program with mentorship
 - 📘&nbsp;&nbsp;[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen's guide to building AI applications in production
-- 📁&nbsp;&nbsp;[AI For Beginners](https://github.com/microsoft/AI-For-Beginners) — Microsoft's 12-week, 24-lesson AI curriculum
 
 <br>
 
@@ -130,7 +131,28 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 <br>
 
-## 🏆 Challenges & Interactive Practice
+## 📂 Learning Repos
+
+- 📁&nbsp;&nbsp;[AI For Beginners](https://github.com/microsoft/AI-For-Beginners) — Microsoft's 12-week, 24-lesson comprehensive AI curriculum
+- 📁&nbsp;&nbsp;[ML For Beginners](https://github.com/microsoft/ML-For-Beginners) — Microsoft's 12-week, 26-lesson curriculum on classical machine learning
+- 📁&nbsp;&nbsp;[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) — Microsoft's 21-lesson course on building GenAI applications
+- 📁&nbsp;&nbsp;[Made With ML](https://github.com/GokuMohandas/Made-With-ML) — End-to-end ML engineering basics to production
+- 📁&nbsp;&nbsp;[ML Engineering](https://github.com/stas00/ml-engineering) — Practical guide to hardware, memory optimization, and scaling
+- 📁&nbsp;&nbsp;[LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) — Build a GPT-style LLM from the ground up with Sebastian Raschka
+- 📁&nbsp;&nbsp;[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) — Python implementations of ML algorithms with math explanations
+- 📁&nbsp;&nbsp;[Transformers Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) — Practical notebooks for using Hugging Face Transformers
+
+<br>
+
+## 🏋️ Practice Repos
+
+- 📁&nbsp;&nbsp;[100 NumPy Exercises](https://github.com/rougier/numpy-100) — Progressive NumPy challenges with solutions
+- 📁&nbsp;&nbsp;[Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) — Interactive labs and code for the Keras/TensorFlow ecosystem by François Chollet
+- 📁&nbsp;&nbsp;[PyTorch Deep Learning Exercises](https://github.com/mrdbourke/pytorch-deep-learning/) — Practical modules and challenges for mastering PyTorch
+
+<br>
+
+## 🏆 Challenges & Platforms
 
 - 🚉&nbsp;&nbsp;[Kaggle Competitions](https://www.kaggle.com/competitions) — Real-world ML competitions with datasets and leaderboards
 - 🚉&nbsp;&nbsp;[LeetCode Pandas Challenges](https://leetcode.com/problemset/pandas/) — Practice data manipulation with Pandas problems
@@ -139,7 +161,6 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🚉&nbsp;&nbsp;[NeetCode ML](https://neetcode.io/practice/machine-learning) — Implement core ML algorithms from scratch with video explanations
 - 🚉&nbsp;&nbsp;[TensorTonic](https://www.tensortonic.com/) — Implement 200+ ML papers and algorithms from scratch
 - 🚉&nbsp;&nbsp;[DataInterview](https://www.datainterview.com/) — Practice SQL and Python for data science interviews
-- 📁&nbsp;&nbsp;[100 NumPy Exercises](https://github.com/rougier/numpy-100) — Progressive NumPy challenges with solutions
 
 <br>
 

@@ -17,11 +17,15 @@ To maintain the high quality and usefulness of this repository, please follow th
 Maintain the existing aesthetic of the `README.md`. Please use consistent icons for different types of resources:
 
 - 📍 for roadmaps.
-- 🎥 for video-based courses/channels.
-- 📘 for paid books or comprehensive guides.
-- 📗 for free books or comprehensive guides.
+- 📗 for free books or text-based guides.
+- 📘 for paid books or text-based guides.
+- 🎥 for free video-based courses or channels.
+- 🎬 for paid video-based courses.
 - 📁 for code repositories.
 - 🚉 for interactive challenges and practice platforms.
+
+Each resource entry should follow this format:
+`- [ICON]&nbsp;&nbsp;[Title](URL) — Brief description of the resource`
 
 ### 3. Placement of New Resources
 
