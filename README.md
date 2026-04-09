@@ -11,9 +11,8 @@
 <summary><strong>💡 How to use this guide</strong></summary>
 <br>
 This is a curated toolkit, not a rigid curriculum. While structured in a logical sequence, feel free to jump to any topic that fits your goals. Explore resources that match your background and learning style—one may be enough, or you might need to combine several based on your objectives.
-
-<br>
-
+<br><br>
+  
 **Resource Types:**
 
 > 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 🎬 Paid Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
