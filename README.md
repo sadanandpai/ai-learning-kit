@@ -58,7 +58,6 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 - 🎥&nbsp;&nbsp;[CS50's Intro to AI with Python](https://www.youtube.com/watch?v=gR8QvFmNuLE&list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm) — Harvard's AI course covering search, knowledge, and learning
 - 🎬&nbsp;&nbsp;[Udacity AI Nanodegree](https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898) — Project-based AI program with mentorship
-- 📘&nbsp;&nbsp;[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen's guide to building AI applications in production
 
 <br>
 
@@ -118,6 +117,24 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 <br>
 
+## 🏗️ MLOps
+
+- 🎥&nbsp;&nbsp;[Machine Learning Engineering for Production (MLOps)](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-specialization/) — Andrew Ng's specialization on the end-to-end ML lifecycle
+- 📘&nbsp;&nbsp;[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen's foundational text on MLOps architecture and strategy
+- 📘&nbsp;&nbsp;[Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) — Noah Gift's guide to operationalizing ML with cloud-native tools
+- 📁&nbsp;&nbsp;[MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) — Hands-on course covering experiment tracking, pipelines, and monitoring
+
+<br>
+
+## 🛠️ AI Engineering
+
+- 📘&nbsp;&nbsp;[AI Engineering](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) — Chip Huyen's guide to building AI applications in production
+- 📁&nbsp;&nbsp;[Made With ML](https://github.com/GokuMohandas/Made-With-ML) — End-to-end ML engineering basics to production
+- 📗&nbsp;&nbsp;[Full Stack Deep Learning](https://fullstackdeeplearning.com/) — The "missing semester" of ML: infrastructure, deployment, and testing
+- 📁&nbsp;&nbsp;[ML Engineering](https://github.com/stas00/ml-engineering) — Practical guide to hardware, memory optimization, and scaling
+
+<br>
+
 ## 📺 Essential YouTube Channels
 
 - 🎥&nbsp;&nbsp;[3Blue1Brown](https://www.youtube.com/@3blue1brown) — Visual explanations of math and neural networks
@@ -135,8 +152,6 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 📁&nbsp;&nbsp;[AI For Beginners](https://github.com/microsoft/AI-For-Beginners) — Microsoft's 12-week, 24-lesson comprehensive AI curriculum
 - 📁&nbsp;&nbsp;[ML For Beginners](https://github.com/microsoft/ML-For-Beginners) — Microsoft's 12-week, 26-lesson curriculum on classical machine learning
 - 📁&nbsp;&nbsp;[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) — Microsoft's 21-lesson course on building GenAI applications
-- 📁&nbsp;&nbsp;[Made With ML](https://github.com/GokuMohandas/Made-With-ML) — End-to-end ML engineering basics to production
-- 📁&nbsp;&nbsp;[ML Engineering](https://github.com/stas00/ml-engineering) — Practical guide to hardware, memory optimization, and scaling
 - 📁&nbsp;&nbsp;[LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) — Build a GPT-style LLM from the ground up with Sebastian Raschka
 - 📁&nbsp;&nbsp;[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) — Python implementations of ML algorithms with math explanations
 - 📁&nbsp;&nbsp;[Transformers Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) — Practical notebooks for using Hugging Face Transformers
@@ -146,7 +161,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 ## 🏋️ Practice Repos
 
 - 📁&nbsp;&nbsp;[100 NumPy Exercises](https://github.com/rougier/numpy-100) — Progressive NumPy challenges with solutions
-- 📁&nbsp;&nbsp;[Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) — Interactive labs and code for the Keras/TensorFlow ecosystem by François Chollet
+- 📁&nbsp;&nbsp;[Deep Learning with Python Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) — Interactive labs and code for the Keras/TensorFlow ecosystem
 - 📁&nbsp;&nbsp;[PyTorch Deep Learning Exercises](https://github.com/mrdbourke/pytorch-deep-learning/) — Practical modules and challenges for mastering PyTorch
 
 <br>
@@ -158,8 +173,18 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🚉&nbsp;&nbsp;[StrataScratch](https://www.stratascratch.com/) — Data science interview questions from top companies
 - 🚉&nbsp;&nbsp;[Deep-ML](https://www.deep-ml.com/) — Hands-on ML coding challenges with real datasets
 - 🚉&nbsp;&nbsp;[NeetCode ML](https://neetcode.io/practice/machine-learning) — Implement core ML algorithms from scratch with video explanations
+- 🚉&nbsp;&nbsp;[MLExpert](https://www.algoexpert.io/machine-learning) — ML coding interview questions with in-depth video explanations
 - 🚉&nbsp;&nbsp;[TensorTonic](https://www.tensortonic.com/) — Implement 200+ ML papers and algorithms from scratch
 - 🚉&nbsp;&nbsp;[DataInterview](https://www.datainterview.com/) — Practice SQL and Python for data science interviews
+  <br>
+
+## 🌐 Learning Platforms
+
+- 🌐&nbsp;&nbsp;[DeepLearning.AI](https://www.deeplearning.ai/courses/) — Top-tier specializations and short courses curated by Andrew Ng
+- 🌐&nbsp;&nbsp;[Hugging Face Learn](https://huggingface.co/learn) — Professional tutorials and documentation for the Transformers ecosystem
+- 🌐&nbsp;&nbsp;[Udemy AI Courses](https://www.udemy.com/topic/artificial-intelligence/) — Library of community-created AI courses for all tools and levels
+- 🌐&nbsp;&nbsp;[Educative](https://www.educative.io/path/) — Interactive, text-based environments for efficient skill building
+- 🌐&nbsp;&nbsp;[DataCamp](https://www.datacamp.com/category/artificial-intelligence) — Highly interactive, browser-based data science and AI fundamentals
 
 <br>
 
