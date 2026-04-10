@@ -176,7 +176,8 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🚉&nbsp;&nbsp;[MLExpert](https://www.algoexpert.io/machine-learning) — ML coding interview questions with in-depth video explanations
 - 🚉&nbsp;&nbsp;[TensorTonic](https://www.tensortonic.com/) — Implement 200+ ML papers and algorithms from scratch
 - 🚉&nbsp;&nbsp;[DataInterview](https://www.datainterview.com/) — Practice SQL and Python for data science interviews
-  <br>
+
+<br>
 
 ## 🌐 Learning Platforms
 
