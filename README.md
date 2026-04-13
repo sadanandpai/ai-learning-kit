@@ -117,10 +117,19 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 <br>
 
+## 🕵️ Agentic AI
+
+- 🎥&nbsp;&nbsp;[Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/information) — Comprehensive course on building agentic systems with iterative, multi-step workflows
+- 📗&nbsp;&nbsp;[Introduction to AI Agents](https://huggingface.co/learn/agents-course) — Hugging Face's comprehensive course on building & deploying agents
+- 📁&nbsp;&nbsp;[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) — Microsoft's 12-lesson curriculum for getting started with AI agents
+- 🎥&nbsp;&nbsp;[5-Day AI Agents Intensive](https://www.kaggle.com/learn-guide/5-day-agents) — Project-based short course for building production-ready agents
+
+<br>
+
 ## 🏗️ MLOps
 
 - 🎥&nbsp;&nbsp;[Machine Learning Engineering for Production (MLOps)](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-specialization/) — Specialization on the end-to-end ML lifecycle
-- 📘&nbsp;&nbsp;[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen's foundational text on MLOps architecture and strategy
+- 📘&nbsp;&nbsp;[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen's foundational text on MLOps architecture & strategy
 - 📘&nbsp;&nbsp;[Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) — Noah Gift's guide to operationalizing ML with cloud-native tools
 - 📁&nbsp;&nbsp;[MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) — Hands-on course covering experiment tracking, pipelines, and monitoring
 
