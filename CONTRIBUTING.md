@@ -23,6 +23,7 @@ Maintain the existing aesthetic of the `README.md`. Please use consistent icons 
 - 🎬 for paid video-based courses.
 - 📁 for code repositories.
 - 🚉 for interactive challenges and practice platforms.
+- 🌐 for websites, hubs, and discovery platforms (e.g., dataset hubs, learning portals).
 
 Each resource entry should follow this format:
 `- [ICON]&nbsp;&nbsp;[Title](URL) — Brief description of the resource`

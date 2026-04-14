@@ -15,7 +15,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
   
 **Resource Types:**
 
-> 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 🎬 Paid Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform
+> 📍 Roadmap &nbsp; 📗 Free Text/Book &nbsp; 📘 Paid Text/Book &nbsp; 🎥 Free Video/Course &nbsp; 🎬 Paid Video/Course &nbsp; 📁 Repository &nbsp; 🚉 Practice Platform &nbsp; 🌐 Website/Hub
 
 </details>
 
@@ -175,7 +175,17 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 <br>
 
-## 🏆 Challenges & Platforms
+## 🗂️ Datasets & Models
+
+- 🌐&nbsp;&nbsp;[Hugging Face Models & Datasets](https://huggingface.co/) — The largest open hub of datasets and ML models
+- 🌐&nbsp;&nbsp;[OpenML](https://www.openml.org/) — Open platform for discovering datasets and sharing reproducible ML experiments
+- 🌐&nbsp;&nbsp;[Kaggle Datasets](https://www.kaggle.com/datasets) — Massive repository of community-published public datasets
+- 🌐&nbsp;&nbsp;[Papers With Code](https://paperswithcode.com/) — Free and open resource for ML papers, code, datasets, & evaluation tables
+- 🌐&nbsp;&nbsp;[UCI ML Repository](https://archive.ics.uci.edu/) — The "grandfather" of ML datasets, widely used for benchmarking classical algorithms
+
+<br>
+
+## 🏆 Challenges & Competitions
 
 - 🚉&nbsp;&nbsp;[Kaggle Competitions](https://www.kaggle.com/competitions) — Real-world ML competitions with datasets and leaderboards
 - 🚉&nbsp;&nbsp;[LeetCode Pandas Challenges](https://leetcode.com/problemset/pandas/) — Practice data manipulation with Pandas problems
