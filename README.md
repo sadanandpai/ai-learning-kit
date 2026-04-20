@@ -39,7 +39,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 ## 🧮 Maths for AI
 
 - 🎥&nbsp;&nbsp;[The Math Behind AI](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/) — DeepLearning.AI specialization on math essentials
-- 🎥&nbsp;&nbsp;[Khan Academy](https://www.khanacademy.org/) — Foundational math courses covering all AI prerequisites
+- 🎥&nbsp;&nbsp; Khan Academy — Foundational math courses covering all AI prerequisites
   - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
   - [Calculus](https://www.khanacademy.org/math/calculus-home)
   - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
@@ -50,7 +50,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 ## 🐍 Python for AI
 
 - 🎬&nbsp;&nbsp;[Python for Everybody](https://www.coursera.org/specializations/python) — Dr. Chuck's Python specialization for absolute beginners
-- 🎥&nbsp;&nbsp;[AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) — DeepLearning.AI course for those with programming knowledge, focused on AI
+- 🎥&nbsp;&nbsp;[AI Python for Beginners](https://learn.deeplearning.ai/courses/ai-python-for-beginners/information) — DeepLearning.AI course for those with programming knowledge, focused on AI
 
 <br>
 
