@@ -128,7 +128,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 ## 🏗️ MLOps
 
-- 🎥&nbsp;&nbsp;[Machine Learning Engineering for Production (MLOps)](https://www.deeplearning.ai/courses/machine-learning-engineering-for-production-specialization/) — Specialization on the end-to-end ML lifecycle
+- 🎥&nbsp;&nbsp;[Machine Learning Engineering in Production (MLOps)](https://learn.deeplearning.ai/courses/machine-learning-in-production/information) — Specialization on the end-to-end ML lifecycle
 - 📘&nbsp;&nbsp;[Designing Machine Learning Systems](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) — Chip Huyen's foundational text on MLOps architecture & strategy
 - 📘&nbsp;&nbsp;[Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/) — Noah Gift's guide to operationalizing ML with cloud-native tools
 - 📁&nbsp;&nbsp;[MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) — Hands-on course covering experiment tracking, pipelines, and monitoring
