@@ -153,6 +153,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🎥&nbsp;&nbsp;[Krish Naik](https://www.youtube.com/@krishnaik06) — Practical ML/DL and career guidance
 - 🎥&nbsp;&nbsp;[Codebasics](https://www.youtube.com/@codebasics) — Project-based learning and data science fundamentals
 - 🎥&nbsp;&nbsp;[CampusX](https://www.youtube.com/@campusx-official) — Comprehensive data science and machine learning tutorials
+- 🎥&nbsp;&nbsp;[Stanford Online](https://www.youtube.com/@stanfordonline) - Academic lecture series on world-class foundational courses in AI
 
 <br>
 
