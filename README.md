@@ -112,8 +112,10 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🎥&nbsp;&nbsp;[Generative AI for Everyone](https://www.deeplearning.ai/courses/generative-ai-for-everyone/) — Andrew Ng's non-technical intro to generative AI
 - 🎥&nbsp;&nbsp;[Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/) — DeepLearning.AI + AWS course on training and deploying LLMs
 - 📗&nbsp;&nbsp;[Hugging Face LLM Course](https://huggingface.co/learn/llm-course) — End-to-end course on building with LLMs
+- 📁&nbsp;&nbsp;[LLM Course](https://github.com/mlabonne/llm-course) — Comprehensive roadmap and hands-on notebooks for LLM science and engineering
 - 📘&nbsp;&nbsp;[Hands-On Large Language Models](https://www.llm-book.com/) — Visual, practical guide to building with LLMs
 - 🎥&nbsp;&nbsp;[Retrieval Augmented Generation](https://www.deeplearning.ai/courses/retrieval-augmented-generation-rag/) — Build RAG systems with LLMs
+- 📁&nbsp;&nbsp;[RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) — Comprehensive collection of RAG strategies with code, illustrations, and evaluations
 
 <br>
 
@@ -121,6 +123,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 - 🎥&nbsp;&nbsp;[Agentic AI](https://learn.deeplearning.ai/courses/agentic-ai/information) — Comprehensive course on building agentic systems with iterative, multi-step workflows
 - 📗&nbsp;&nbsp;[Introduction to AI Agents](https://huggingface.co/learn/agents-course) — Hugging Face's comprehensive course on building & deploying agents
+- 📁&nbsp;&nbsp;[GenAI Agents](https://github.com/nirdiamant/GenAI_Agents) — 50+ tutorials and implementations for AI agents, from basic bots to multi-agent systems
 - 📁&nbsp;&nbsp;[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) — Microsoft's 12-lesson curriculum for getting started with AI agents
 - 🎥&nbsp;&nbsp;[5-Day AI Agents Intensive](https://www.kaggle.com/learn-guide/5-day-agents) — Project-based short course for building production-ready agents
 
