@@ -73,6 +73,7 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 
 - 🎬&nbsp;&nbsp;[The Numpy Stack in Python](https://www.udemy.com/course/deep-learning-prerequisites-the-numpy-stack-in-python/) — Lazy Programmer's course on numpy, pandas & matplotlib
 - 🎬&nbsp;&nbsp;[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) — University of Michigan course on Coursera
+- 📗&nbsp;&nbsp;[Scikit-learn MOOC](https://inria.github.io/scikit-learn-mooc/index.html) - Machine learning in Python with scikit-learn
 - 📗&nbsp;&nbsp;[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) — freeCodeCamp certification with projects
 
 <br>
