@@ -167,8 +167,10 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 📁&nbsp;&nbsp;[ML For Beginners](https://github.com/microsoft/ML-For-Beginners) — Microsoft's 12-week, 26-lesson curriculum on classical machine learning
 - 📁&nbsp;&nbsp;[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) — Microsoft's 21-lesson course on building GenAI applications
 - 📁&nbsp;&nbsp;[LLMs from scratch](https://github.com/rasbt/LLMs-from-scratch) — Build a GPT-style LLM from the ground up with Sebastian Raschka
+- 📁&nbsp;&nbsp;[AI Engineering from scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Curriculum teaching you to build AI algorithms, LLMs, & multi-agent swarms
 - 📁&nbsp;&nbsp;[Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) — Python implementations of ML algorithms with math explanations
 - 📁&nbsp;&nbsp;[Transformers Tutorials](https://github.com/NielsRogge/Transformers-Tutorials) — Practical notebooks for using Hugging Face Transformers
+- 
 
 <br>
 
