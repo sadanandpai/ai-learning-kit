@@ -93,7 +93,6 @@ This is a curated toolkit, not a rigid curriculum. While structured in a logical
 - 🎬&nbsp;&nbsp;[PyTorch for Deep Learning](https://www.coursera.org/professional-certificates/pytorch-for-deep-learning) — Professional PyTorch Certificate by Coursera
 - 🎥&nbsp;&nbsp;[TensorFlow in Practice](https://www.coursera.org/professional-certificates/tensorflow-in-practice) — Professional TensorFlow Certificate by Coursera
 - 📗&nbsp;&nbsp;[Hugging Face Transformers](https://huggingface.co/docs/transformers/) — Industry-standard library for state-of-the-art NLP models
-- 🎥&nbsp;&nbsp;[LangChain for LLM App Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/) — DeepLearning.AI short course on LangChain fundamentals
 
 <br>
 
